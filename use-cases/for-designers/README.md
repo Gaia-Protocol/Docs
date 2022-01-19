@@ -4,6 +4,6 @@
 
 ![](../../.gitbook/assets/KRONOS.png)
 
-## 2. Dㄸㅌ
+## 2. DEXATA
 
 ![](../../.gitbook/assets/DEXATA.png)
