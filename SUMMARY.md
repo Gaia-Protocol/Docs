@@ -5,8 +5,7 @@
 ## Gaia Protocol Details
 
 * [Gaia Protocl 펀드 구성 및 일정](guides/protocol_fund.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+
 
 ## FAQ
 
