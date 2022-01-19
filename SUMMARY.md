@@ -16,3 +16,5 @@
 
 * [파트너십 현황](use-cases/for-designers/README.md)
 
+## SNS Links
+* [프로젝트 관련링크]
