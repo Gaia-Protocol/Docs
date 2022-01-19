@@ -2,11 +2,11 @@
 
 * [프로젝트 소개](README.md)
 
-## Guides
+## Gaia Protocol Details
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Gaia Protocl 펀드 구성](gaia-protocol-details/creating-your-first-project.md)
+* [Creating your first task](gaia-protocol-details/creating-your-first-task.md)
+* [Advanced permissions](gaia-protocol-details/advanced-permissions.md)
 
 ## Fundamentals
 
