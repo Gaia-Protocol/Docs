@@ -3,17 +3,39 @@
 
 
 {% hint style="info" %}
-**주의:** 가이아 프로토콜의 자금 위탁은 Kronos에게 전권 위임되며 Kronos 자산 가치의 변동으로 인한 손실을 보장해 드리지 않습니다. 꼭 투자 전에 연계된 프롣젝트를 확인하고 투자를 결정하세요.
+**주의:** 가이아 프로토콜의 자금 위탁은 [Kronos](https://docs.kronosdao.finance/v/kr/) 에게 전권 위임되며 Kronos 자산 가치의 변동으로 인한 손실을 보장해 드리지 않습니다. 꼭 투자 전에 연계된 프롣젝트를 확인하고 투자를 결정하세요.
 {% endhint %}
 
 ## 민팅 일정
 
 민팅 일정은 **2022년 2월 10일** 진행됩니다. 22시에 화이트리스트 대상으로 3000 개의 NFT 민팅이 진행되며, 23시에는 7000개의 NFT 물량에 대한 Public Sale이 진행 될 예정입니다.
 
-민팅 가격: 100Klay
+민팅 가격: **100Klay**
 
 트렌젝션 1회당 n개를 민팅하실 수 있습니다.
 
-## 일정은 Creating a project
+## Gaia Protocol Fund Distribution
 
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+펀드는 민팅이후 **Kronos 예치 펀드 (50%), Buyback 펀드 (45%), 개발자 펀드 (5%)**로 이루어져 있습니다.
+
+### Kronos 예치 펀드 (50%)
+
+민팅액의 50%를 Kronos DAO에 영원히 예치됩니다. Kronos DAO의 프로젝트가 종료되지 않은 이상, 해당 펀드에서 발생되는 이자는 NFT 홀더들에게 지급됩니다.
+
+### Buyback 펀드 (45%)
+
+민팅액의 45%와 오픈씨 거래 수수료(로열티)를 Buayback 펀드에 넣습니다. 이후 NFT 홀더가 원하면 바이백 펀드를 통해 그간 받은 이자를 제외한 금액만큼 NFT를 납부하고 돌려받을 수 있습니다. 
+납부받은 NFT는 개발팀에서 시장에 팔아 바이백 펀드를 다시 채웁니다. 
+
+바이백 펀드로 매입한 NFT는 FP에서 Bench Mark로 등록된 NFT의 복리 이자를 공제한 이후 Open Sea 리스팅 됩니다.
+
+(팀에서 올리는 바이백 NFT 가격) = (Floor Price) - (BM NFT의 복리 이자)
+
+1개의 NFT 당 1 번의 바이백만을 진행하기에 Open Sea에서 거래할 때에 유의하시기 바랍니다.
+
+즉 민팅 직후에는 바이백 펀드에서 민팅가를 100% 되돌려 받을 수 있다. 이후 이자 수익이 나오게 된다면 복리 수익에 따라 점차 되돌려받는 수치가 내려가고, 복리 수익으로 원금 회수가 확정되면 되돌려받는 수치가 0에 수렴하여 바이백 펀드는 종료된다.
+
+이로써 최대한 원금을 보장한다.
+
+
+
