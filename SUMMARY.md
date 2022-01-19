@@ -4,17 +4,18 @@
 
 ## Gaia Protocol Details
 
-* [Gaia Protocl 펀드 구성 및 일정](guides/protocol_fund.md)
-
+* [Gaia Protocl 펀드 구성 및 일정](guides/protocol\_fund.md)
 
 ## FAQ
 
-* [Q&A](fundamentals/projects.md)
-
+* [Q\&A](fundamentals/projects.md)
 
 ## Partnership
 
 * [파트너십 현황](use-cases/for-designers/README.md)
 
-## SNS Links
-* [프로젝트 관련링크](use-cases/for-engineers/README.md)
+## SNS LINKS
+
+* [Dsicord](https://discord.gg/SjM4meh3hd)
+* [Telegram](https://t.me/gaiaprotocol)
+* [Twitter](https://twitter.com/gaia\_protocol)
