@@ -28,8 +28,10 @@
 납부받은 NFT는 개발팀에서 시장에 팔아 바이백 펀드를 다시 채웁니다. 
 
 바이백 펀드로 매입한 NFT는 FP에서 Bench Mark로 등록된 NFT의 복리 이자를 공제한 이후 Open Sea 리스팅 됩니다.
-
+<div align="center">
   #### *(팀에서 올리는 바이백 NFT 가격) = (Floor Price) - (BM NFT의 복리 이자)*
+</div>
+
 
 1개의 NFT 당 1 번의 바이백만을 진행하기에 Open Sea에서 거래할 때에 유의하시기 바랍니다.
 
