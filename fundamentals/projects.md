@@ -21,3 +21,16 @@
 #### A: Buyback Fund와 Open Sea에서의 구매는 별개입니다. 우선 Buyback Fund에 대한 정의는 앞서 서술된 Gaia Protocol 섹션을 참고하시면 됩니다. Buyback은 Gaia Protocol 웹사이트에서 직접 진행하며 NFT 당 1번만 buyback이 진행됩니다. 프로젝트팀에서 buyback한 물량은 OpenSea에 타 홀더들과 같이 2차 판매를 통하여 펀드를 유지 할 것입니다. Open Sea에서 판매하는 것은 유저간의 거래가 이루어지는 것이기에 Buyback 펀드와 연관이 없습니다. 단 2차 거래 수수료는 Buyback 펀드로 귀속되어 지속적으로 가치를 지지하는데 사용할 예정입니다.
 
 #### Buyback 펀드가 모두 소진되는 경우, 뱅크런과 같은 현상이 발생 할 수 있으나 프로젝트 팀에서 지속해서 가치를 부양하기 위한 커뮤니티 이벤트 및 가치를 형성 해 나갈 것입니다.
+
+## Q: 화이트리스트에 포함이 되려면 어떻게 해야 하나요?
+
+### A: 현재 화이트 리스트 물량으로 3천 개의 물량을 할당한 상태입니다. 3개의 nft 프로젝트와 2개의 코인 홀더들에게 공정하게 기회가 돌아갈 수 있도록 기준을 세부적으로 작성하여 공지드리겠습니다.
+
+### 관련 프로젝트 링크
+
+### [DogeSound Club Mates](https://opensea.io/collection/dogesoundclub-mates)
+### [참새NFT](https://klu.bs/pfp/0x29d05593116C443da54DaBFB4e5322DEA2fff8Cd)
+### [DSC eMATES](https://opensea.io/collection/dogesoundclub-emates)
+### [IJM Coin](https://tteok.org/)
+### [Kronos DAO](https://kronosdao.finance/)
+
