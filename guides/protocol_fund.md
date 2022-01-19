@@ -29,7 +29,7 @@
 
 바이백 펀드로 매입한 NFT는 FP에서 Bench Mark로 등록된 NFT의 복리 이자를 공제한 이후 Open Sea 리스팅 됩니다.
 <div align="center">
-  #### *(팀에서 올리는 바이백 NFT 가격) = (Floor Price) - (BM NFT의 복리 이자)*
+  <strong>(팀에서 올리는 바이백 NFT 가격) = (Floor Price) - (BM NFT의 복리 이자)</strong>
 </div>
 
 
