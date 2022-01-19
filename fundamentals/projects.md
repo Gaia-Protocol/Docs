@@ -1,5 +1,21 @@
-# Projects
+# FAQ
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+## Q: GAIA Protocol을 보유함으로써 받는 혜택이 있나요?
+
+### A: 향후 V2에 대한 화이트 리스트권을 구상중이나 이외의 혜택은 따로 드리지 않스빈다.
+
+## Q: GAIA Protocol NFT를 보유한 커뮤니티원의 혜택은 무엇인가요?
+
+### A: 디스코드 내부에 프로젝트 NFT를 보유한 홀더들만을 위한 채널들을 개설 할 예정입니다. 해당 채널에서 다양한 투자 정보들이 공유되며 부가적인 투자수익을 찾을 수 있도록 노력하겠습니다.
+
+## Q: Kronos DAO를 직접 구매하지 않고 GAIA Protocol의 NFT를 구매해야하는 이유가 있나요?
+
+### A: 단기적인 투자 수익률 관점에서는 1000 Klay를 Kronos에 예치하는 것이 좋습니다. 그러나 저희가 추구하는 투자자들에 의한, 투자자들을 위한 커뮤니티를 형성함으로써 장기적으로 잠재력이 있는 프로젝트들에 대한 정보를 서로 공유하고 나누면서 더욱더 큰 가치를 이끌어 낼 수 있도록 커뮤니티를 빌딩 해 나갈 예정입니다.
+
+## Q: Kronos의 수익률에 따라 프로젝트의 성공이 결정되는 것인가요?
+
+### A: GAIA Protocol은 민팅한 금액의 50%에 대한 자금을 Kronos DAO에 위탁하게 됩니다. 단도직입적으로 말하면 Kronos DAO의 APY 변화가 원금회수 기간에 영향을 줄 수 있습니다. 그러나 Klaytn 네트워크의 Defi 2.0 protocol 중 가장 높은 TVL을 보유하고 있습니다. Kronos DAO의 안정적인 TVL을 통해 여러분들이 최대한 원금 회수를 할 수 있도록 도울 예정입니다.
+
+## Q: Buyback Fund가 아직 이해가 잘 안되요. Buyback 펀드에 판매하는 것과 Open Sea에서 구매하는 것은 다른가요?
+
+### ㅁ:
