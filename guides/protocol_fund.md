@@ -1,7 +1,7 @@
 # Gaia Protocol 펀드 구성 및 일정
 
 {% hint style="info" %}
-**주의:** 가이아 프로토콜의 자금 위탁은 [Kronos](https://docs.kronosdao.finance/v/kr/) 에게 전권 위임되며 Kronos 자산 가치의 변동으로 인한 손실을 보장해 드리지 않습니다. 꼭 투자 전에 연계된 프로젝트를 확인하고 투자를 결정하세요.
+**注意**: Gaia Protocol 的资金委托全权委托于Kronos[Kronos](https://docs.kronosdao.finance/v/kr/)，并不保证Kronos因资产价值变动而造成的一切损失。请务必了解相关事项后再决定投资。
 {% endhint %}
 
 ## 민팅 일정
