@@ -1,10 +1,10 @@
 # Table of contents
 
-* [프로젝트 소개](README.md)
+* [项目介绍](README.md)
 
 ## Gaia Protocol Details
 
-* [Gaia Protocl 펀드 구성 및 일정](gaia-protocol-details/protocol\_fund.md)
+* [Gaia Protocol 资金结构及日程](gaia-protocol-details/protocol\_fund.md)
 
 ## FAQ
 
