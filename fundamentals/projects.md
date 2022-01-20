@@ -38,3 +38,9 @@
 * ####  [IJM Coin](https://tteok.org/)
 * ####  [Kronos DAO](https://kronosdao.finance/)
 
+### 관련 프로젝트 Contract 
+* #### KRNO: 0xD676e57Ca65b827fEb112AD81Ff738E7B6c1048d
+
+* #### sKRNO: 0x6555F93f608980526B5cA79b3bE2d4EdadB5C562
+
+* #### IJM: 0x0268dbed3832b87582b1fa508acf5958cbb1cd74
