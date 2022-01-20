@@ -12,7 +12,7 @@
 
 ## Partnership
 
-* [파트너십 현황](use-cases/for-designers/README.md)
+* [Pratnership List](use-cases/for-designers/README.md)
 
 ## SNS LINKS
 
