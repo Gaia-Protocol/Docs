@@ -12,7 +12,7 @@
 
 ## Partnership
 
-* [Pratnership List](use-cases/for-designers/README.md)
+* [Partnership List](use-cases/for-designers/README.md)
 
 ## SNS LINKS
 
