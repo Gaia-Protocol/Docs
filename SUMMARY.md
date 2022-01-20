@@ -4,7 +4,7 @@
 
 ## Gaia Protocol Details
 
-* [Gaia Protocl 펀드 구성 및 일정](guides/protocol\_fund.md)
+* [Gaia Protocol 펀드 구성 및 일정](guides/protocol\_fund.md)
 
 ## FAQ
 
