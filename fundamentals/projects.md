@@ -26,14 +26,17 @@
 
 ### 관련 프로젝트 링크
 
-* [**DogeSound Club Mates**](https://opensea.io/collection/dogesoundclub-mates)
-* [**참새NFT**](https://klu.bs/pfp/0x29d05593116C443da54DaBFB4e5322DEA2fff8Cd)
-* [**DSC eMATES**](https://opensea.io/collection/dogesoundclub-emates)
-* [**IJM Coin**](https://tteok.org)
 * [**Kronos DAO**](https://kronosdao.finance)
+* [**DogeSoundClub Mates**](https://opensea.io/collection/dogesoundclub-mates)
+* [**DogeSoundClub eMATES**](https://opensea.io/collection/dogesoundclub-emates)
+* [**MIX Token**](https://mix.info)****
+* [**떡방앗간 참새 NFT**](https://klu.bs/pfp/0x29d05593116C443da54DaBFB4e5322DEA2fff8Cd)
+* [**IJM Token**](https://tteok.org)
 
 ### 관련 프로젝트 Contract
 
 * **KRNO: 0xD676e57Ca65b827fEb112AD81Ff738E7B6c1048d**
 * **sKRNO: 0x6555F93f608980526B5cA79b3bE2d4EdadB5C562**
+* **DSC Mates: 0xe47e90c58f8336a2f24bcd9bcb530e2e02e1e8ae**
+* **MIX: 0xdd483a970a7a7fef2b223c3510fac852799a88bf**
 * **IJM: 0x0268dbed3832b87582b1fa508acf5958cbb1cd74**
