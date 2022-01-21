@@ -20,14 +20,14 @@
 
 ## Q: 화이트리스트에 포함이 되려면 어떻게 해야 하나요?
 
-#### A: 현재 화이트 리스트 물량으로 3천 개의 물량을 할당한 상태입니다. 3개의 nft 프로젝트와 3개의 코인 홀더들에게 공정하게 기회가 돌아갈 수 있도록 기준을 세부적으로 작성하여 공지드리겠습니다.
+#### A: 현재 화이트 리스트 물량으로 4000 개의 물량을 할당한 상태입니다. 3개의 nft 프로젝트와 3개의 코인 홀더들에게 공정하게 기회가 돌아갈 수 있도록 기준을 세부적으로 작성하여 공지드리겠습니다.
 
 ### 관련 프로젝트 링크
 
 * [**Kronos DAO**](https://kronosdao.finance)
 * [**DogeSoundClub Mates**](https://opensea.io/collection/dogesoundclub-mates)
 * [**DogeSoundClub eMATES**](https://opensea.io/collection/dogesoundclub-emates)
-* [**MIX Token**](https://mix.info)****
+* [**MIX Token**](https://mix.info)
 * [**떡방앗간 참새 NFT**](https://klu.bs/pfp/0x29d05593116C443da54DaBFB4e5322DEA2fff8Cd)
 * [**IJM Token**](https://tteok.org)
 
