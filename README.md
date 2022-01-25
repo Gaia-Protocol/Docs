@@ -1,17 +1,17 @@
 ---
-description: Gaia Protocol Introduction in Korean
+description: Gaia Protocol Introduction in English
 ---
 
-# 프로젝트 소개
+# Project Introduction
 
-## Gaia Protocol은 무엇인가요?
+## What is Gaia Proctocol?
 
-Gaia Protocol은 Klaytn 체인에 존재하는 Defi 2.0과 NFT를 결합하여 만들어낸 투자 목적의 PFP NFT 프로젝트입니다. 민팅 금액의 50%를 클레이튼 체인 최초의 Defi 2.0 프로젝트인 Kronos DAO에 예치하여 자동 재예치 된 복리이자 수익을 NFT 홀더에게 분배합니다. 또한 커뮤니티 내에서 다양한 이벤트와 정보 교류 등을 통하여 이자 수익 이외의 내재적인 가치와 문화를 형성하는 커뮤니티의 역동성에 기반합니다.
+Gaia Protocol is a investment purposed PFP NFT Kalytn network project by combining Defi 2.0 and NFT concepts. The project deposit 50% of minted Klay on Kronos DAO, the fisrt Defi 2.0 on Klaytn network, permanently. Then the coumpound interest from the deposit will be dsitributed to the NFT holders. Moreover, the project will make the intrinsic from proacitve community like investment inforamtion exchange as well as various internal events for community members.
 
-## Gaia Protocol의 목표는 무엇인가요?
+## What is the goal of Gaia Protocol?
 
-Gaia Protocol은 원금 회수 이후 지속적인 이자를 수령하여 수익을 얻는 NFT입니다. Gaia Protocol은 2022년 2월 10일에 민팅이 이루어 집니다. 민팅 가격의 절반은 Defi 2.0에 영구적으로 staking 되며 unstaking 되지 않습니다. 이자는 홀더들이 웹사이트에서 claim이 가능합니다. 복리로 이자가 재예치 되는 Defi 2.0 특성상 잦은 이자 수령은 원금 회수 기간이 늦춰질 수 있습니다. 또한 NFT를 소유한 홀더들을 중심으로 NFT & Crypto 투자자들의 사교모임을 형성하여 매력적이고 강력한 커뮤니티 형성을 목표로 합니다. 이를 통해 가이아 프로토콜에서 민팅 된 NFT 의 가치상승을 기대할 수 있게 됩니다. 최종적으로 가이아 프로토콜이 건강하고 견고하게 성장하는 것을 목표하고 있으며 이는 클레이튼 생태계가 더욱 확장되는 것을 의미합니다.
+The project goal is making Gaia Protocol as a passive income for the holders through receiving interests after they exceeds the breaek even point of initial investment on the project. Gaia Protocol's minting process will be made at February 10th, 2022. Half of the minting price will be staked on Defi 2.0 permanently. Holders can calim the interests on the porject website. As Defi 2.0 core is a compounding intrest, freqeunt interest claim may enlongate reaching break even point of the investment. Another goal is building a strong and attractive community for the holders. It will become a major community for NFT&Crypto investors for making potential profits through exclusive information sharing amoung the holders. Such community will be anoter selling point which will lead to increase in value of Gaia Protocol. The growth of Gaia Protocol community will not only increase the investment on Klaytn network but also help to expand Klaytn ecosystem eventually.
 
-## 왜 Defi 2.0 프로토콜 중 Kronos DAO를 선정하였나요?
+## Why Kronos DAO was slected as a strategic partner among Klatyn Defi 2.0 projets?
 
-Kronos DAO는 Klaytn 체인에서 최초로 시도된 Defi 2.0 프로토콜입니다. 21년 11월 18일 론칭 이후 22년 1월 20일 현재 약 1.1억$ 이라는 높은 TVL을 기록하고 있습니다. Kronos 팀은 론칭 이후 안정적으로 프로젝트를 운영하고 있으며 수준 높은 커뮤니티 관리와 홍보, 마켓팅 능력을 보여주고 있습니다. sKRNO 홀더들로 구성되어 있는 커뮤니티 역시 견고하게 자리잡아가면서 성공적인 프로젝트로 계속해서 발전하고 있습니다. Kronos DAO가 보여준 안정적이고 적극적인 운영과 확장 가능성에 Gaia 팀은 기대와 신뢰를 가지고 양자간 KYC 를 진행하였고 견고한 파트너십을 맺게 되었습니다. 이를 통해 Gaia Protocol 은 홀더들에게 비교적 안정적인 복리 이자를 제공할 수 있을 것으로 기대하고 있습니다. Gaia Protocol 은 Kronos DAO 의 거버넌스 토큰이자 보상으로 주어지는 KRNO 토큰의 최상위 홀더의 자격을 지니게 됩니다(현재 기준). 이는 Kronos DAO 프로토콜의 안정성에 더욱 크게 기여하게 되는 결과를 가지고 오게 됩니다. 이렇게 두 팀의 협업을 통해 이전에 없던 시너지를 낼 수 있다고 판단하였고 공식 파트너십을 체결하게 되었습니다.
+Kronos DAO is the fisrt Defi 2.0 on Klaytn network. After the first luanch at November 18t, 2021, Kronos DAO recorded 110 million USD TVL. Kronos team showed stable porject operation, refined community management, and proactive marketing and promotion. sKrono holders showed loyalty to the community which led to continous development of Kronos Project. As Gaia team showed the excelled performance and pontential expnasion, the team proceeded KYC with Kronos team to build up the partnership. Through the partnership, Gaia Protocol enable relatively stable compounding interest to the holdrs. Furthermore, as the team deposit the significant amount of assets at Kronos DAO, we will be the largest holder of KRNO governance token. This means that Gaia Protocol will contribute to the stability of Kronos DAO as a result. Gaia and Kronoes team both agreed that the synergy will bring different paradigm which eventually set up the partnership.
