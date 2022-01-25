@@ -14,7 +14,7 @@
 
 ## Partnership
 
-* [Partnership List](use-cases/for-designers/README.md)
+* [Partnership List](parnership/partnership_list.md)
 
 ## SNS LINKS
 
