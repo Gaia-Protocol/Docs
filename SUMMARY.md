@@ -10,11 +10,11 @@
 
 ## FAQ
 
-* [Q\&A](fundamentals/projects.md)
+* [Q\&A](FAQ/projects.md)
 
 ## Partnership
 
-* [Partnership List](parnership/partnership_list.md)
+* [Partnership List](partnership/partnership_list.md)
 
 ## SNS LINKS
 
