@@ -6,7 +6,7 @@
 
 * [Team](gaia-protocol-details/team.md)
 * [Gaia Protocol 펀드 구성 및 일정](gaia-protocol-details/protocol_fund.md)
-* [Whitelist Information]()
+* [Whitelist Information](gaia-protocol-details/whitelist_info.md)
 
 ## FAQ
 
