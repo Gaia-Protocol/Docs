@@ -5,7 +5,7 @@
 ## Gaia Protocol Details
 
 * [Team](gaia-protocol-details/team.md)
-* [Gaia Protocol 펀드 구성 및 일정](guides/protocol\_fund.md)
+* [Gaia Protocol 펀드 구성 및 일정](gaia-protocol-details/.md)
 * [Whitelist Information]()
 
 ## FAQ
