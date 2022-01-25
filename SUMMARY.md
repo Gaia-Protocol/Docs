@@ -4,17 +4,17 @@
 
 ## Gaia Protocol Details
 
-* [Team](gaia-protocol-details/team.md)
-* [Gaia Protocol 펀드 구성 및 일정](gaia-protocol-details/protocol_fund.md)
-* [Whitelist Information](gaia-protocol-details/whitelist_info.md)
+* [Team](en/gaia-protocol-details/team.md)
+* [Gaia Protocol 펀드 구성 및 일정](en/gaia-protocol-details/protocol_fund.md)
+* [Whitelist Information](en/gaia-protocol-details/whitelist_info.md)
 
 ## FAQ
 
-* [Q\&A](FAQ/projects.md)
+* [Q\&A](en/FAQ/projects.md)
 
 ## Partnership
 
-* [Partnership List](partnership/partnership_list.md)
+* [Partnership List](en/partnership/partnership_list.md)
 
 ## SNS LINKS
 
