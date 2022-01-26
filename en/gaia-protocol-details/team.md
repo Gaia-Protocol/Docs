@@ -1,28 +1,27 @@
 # Team
 
-## Director 심영재
+## Director Sim, Young Jae
 
-그는 국내 최초로 PFP를 만든 DSC의 개발자이자, 클레이튼 최초의 밈코인 인절미를 만든 떡방앗간 커뮤니티의 창시자이기도 합니다. 가이아 프로토콜에 대한 아이디어를 냈으며 가이아 프로토콜의 디렉터 역할을 맡게 되었습니다.
+Sim, Young Jae is the first PFP project, DSC eMATES, developer in Korea, and the first MEME coin , Inejeolmi token,  developer on Kalytn network. He is a director of Gaia  Protocol project.
 
-## Development 이학성 &#x20;
+## Development Lee, Hakseong &#x20;
 
-그는 MIX 웹 사이트, Klubs, 떡방앗간의 웹 디자인 및 프론트 개발을 담당하고 있는 개발자입니다. 웹 뿐 아니라 애플리케이션, 서버 개발 경험도 다수 가지고 있어 가이아 프로토콜의 메인 개발자 역할을 맡게 되었습니다.
+Lee, Hakseong is a developer of MIX token website, Klubs and Injeolmi webdesign as well as front-end. His experience with respect to application, server development will lead Gaia Protocol to a success.
 
 ## Development TheGreatHB
 
-SushiSwap의 Contributor (스마트계약 내부 오디터)로서 Shoyu 및 Mirin 개발 등에 참여했습니다. 국내에서는 DSC, MIX 생태계, Klubs 생태계 등의 스마트계약을 감사 및 개발해왔습니다. 또한 클레이튼 최초의 밈코인 인절미의 스마트계약 개발자이기도 합니다.
+TheGreatHB is a SushiSwap Contributor (Internal Smartcontract Auditor). He participated in Shoyu and Mirin project as developmer. In Korea, he audited as well as developed DSC and ecosystem of Klubs and MIX token. Also he develoed Inejeolmi token's smart contract.
 
-## Marketing & CS 박민
+## Marketing & CS Park, Min
 
-그는 DSC 커뮤니티에서 활동하고 있으며, 떡방앗간 커뮤니티 매니저를 담당하고 있습니다. 트위터 뿐 아니라 여러 커뮤니티에서 활동적인 모습으로 커뮤니티의 원동력이 되고 있습니다. 가이아의 기획단계에서 함께 했으며 커뮤니티 에디터를 맡게 되었습니다.
+Park Min is a part of DSC community, currently manaing Injeolmi token community. He proactively fosters several Crypto SNS to motivate holders to participate various events. He joined from the initial phase of Gaia Protocl, and currently he works as a community editor from the proejct.
 
-## Marketing & CS 강희민
+## Marketing & CS Kang Heemin
 
-Klubs, FoxPunks의 커뮤니티 매니징 및 마케팅을 담당하고 있습니다. 홍콩에 거주하고 있으며 국내 팀 뿐 아니라 다양한 해외 팀과의 협업을 통해 커뮤니티를 확장시키고 나아가 해외 크립토 투자자들까지 참여할 수 있는 프로젝트로 성장시킬 예정입니다.
+Kang heemin is marketer and community manager of Klubs, FoxPunks projects. He is currently located at Hong Kong. He will not only build up the partnership in Korea but also expand the relationship with interantional porject teams to attract global crypto investors to Gaia Protocol
 
-## Art & Design 조선우
+## Art & Design Cho, Sunwoo
 
-현직 게임 개발자이자 NFT 아티스트입니다. 다년간 트위터 작품 활동을 통해 32만 팔로워를 보유하고 있으며, 최근에는 한국의 NFT 및 P2E 게임 프로젝트에도 참여하고 있습니다.
-
+Cho, Sunwoo is a game developer as well as a NFT artitis. He has 320K followers on Twitter through his long term activity. Recently he participates in Korean NFT and P2E projects.
 
 
