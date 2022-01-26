@@ -6,7 +6,7 @@ Sim, Young Jae is the developer of the first PFP project DSC eMATES in Korea, an
 
 ## Development Lee, Hakseong &#x20;
 
-Lee, Hakseong is a developer of the MIX token website, Klubs and Injeolmi webdesign, as well as front-end programming. His experience in application development and server development is the key to Gaia Protocol's success.
+Lee, Hakseong is a full stack developer of the MIX token website, Klubs and Injeolmi webdesign. His experience in application development and server development is the key to Gaia Protocol's success.
 
 ## Development TheGreatHB
 
