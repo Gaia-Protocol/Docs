@@ -14,7 +14,7 @@ TheGreatHB is a SushiSwap Contributor (Internal Smartcontract Auditor). He parti
 
 ## Marketing & CS Park, Min
 
-Park Min is a part of DSC community, currently managing Injeolmi token community. He proactively fosters several Crypto SNS to motivate holders to participate in various events. He joined from the initial phase of Gaia Protocl, and currently he works as a community editor for the proejct.
+Park Min is a part of DSC community, currently managing Injeolmi token community. He proactively fosters several Crypto SNS to motivate holders to participate in various events. He joined from the initial phase of Gaia Protocol, and currently he works as a community editor for the proejct.
 
 ## Marketing & CS Kang Heemin
 
