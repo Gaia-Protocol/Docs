@@ -22,6 +22,6 @@ Kang Heemin is the marketer and community manager of Klubs, FoxPunks projects. H
 
 ## Art & Design Cho, Sunwoo
 
-Cho, Sunwoo is a game developer as well as an NFT artitis. He has 320K followers on Twitter through his long-term activity. Recently he has participated in several Korean NFT and P2E projects.
+Cho, Sunwoo is a game developer as well as an NFT artist. He has 320K followers on Twitter through his long-term activity. Recently he has participated in several Korean NFT and P2E projects.
 
 
