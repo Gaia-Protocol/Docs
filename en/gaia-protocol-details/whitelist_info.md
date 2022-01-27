@@ -1,14 +1,14 @@
-## 화이트리스트 관련정보
+## Whitelist Information Details
 
-#### 화이트리스트 신청: 1/24 (월) - 2/8 (화)
+#### Whitelist Registration: 1/24 (Mon) - 2/8 (Tue) 23:00 UTC+ 9
 
-* 설문링크 배포: https://wyoz4cv843u.typeform.com/to/pGgR9iHv
+* Registration From Link: https://wyoz4cv843u.typeform.com/to/pGgR9iHv
 * 토큰 별 보유 지갑 주소 기입합니다.
 * 기입된 지갑의 화이트 리스트 대상 NFT 및 코인의 가치 합산하여 확인
   * 1000 Klay 가치 당 화이트 리스트 티켓 1장 지급됩니다.
   * 1 장의 티켓 당 1개의 nft 민팅이 가능합니다.
 
-#### 스냅샷: 2/9 (수) [시간은 현재 미정입니다. 향후 공지 예정]
+#### Snapshot Schedule: 2/9 (Wed) UTC+ 9 [Time will be announced very soon]
 
 * 팀에서 스냅샷을 통한 자산확인을 진행하여 티켓을 지갑 별로 배분합니다.
 * 코드로 스냅샷을 찍기에 신청자 분들께서 신청할 때 기입한 지갑에 자산을 옮기지 말고 넣어두시기만하면 됩니다.
