@@ -4,9 +4,9 @@
 
 ## Gaia Protocol Details
 
+* [Gaia Protocol Fund Distribuition and Key Event Dates](en/gaia-protocol-details/protocol\_fund.md)
 * [Team](en/gaia-protocol-details/team.md)
-* [Gaia Protocol Fund Distribuition and Key Event Dates](en/gaia-protocol-details/protocol_fund.md)
-* [Whitelist Information](en/gaia-protocol-details/whitelist_info.md)
+* [Whitelist Information](en/gaia-protocol-details/whitelist\_info.md)
 
 ## FAQ
 
@@ -14,7 +14,7 @@
 
 ## Partnership
 
-* [Partnership List](en/partnership/partnership_list.md)
+* [Partnership List](en/partnership/partnership\_list.md)
 
 ## SNS LINKS
 
