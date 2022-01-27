@@ -1,11 +1,11 @@
 # Table of contents
 
-* [프로젝트 소개](README.md)
+* [Project Introduction](README.md)
 
 ## Gaia Protocol Details
 
 * [Team](en/gaia-protocol-details/team.md)
-* [Gaia Protocol 펀드 구성 및 일정](en/gaia-protocol-details/protocol_fund.md)
+* [Gaia Protocol Fund Distribuition and Key Event Dates](en/gaia-protocol-details/protocol_fund.md)
 * [Whitelist Information](en/gaia-protocol-details/whitelist_info.md)
 
 ## FAQ
