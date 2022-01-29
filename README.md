@@ -4,6 +4,8 @@ description: Gaia Protocol Introduction in Korean
 
 # 프로젝트 소개
 
+![](.gitbook/assets/KakaoTalk\_20220119\_145242587.jpg)
+
 ## Gaia Protocol은 무엇인가요?
 
 Gaia Protocol은 Klaytn 체인에 존재하는 Defi 2.0과 NFT를 결합하여 만들어낸 투자 목적의 PFP NFT 프로젝트입니다. 민팅 금액의 50%를 클레이튼 체인 최초의 Defi 2.0 프로젝트인 Kronos DAO에 예치하여 자동 재예치 된 복리이자 수익을 NFT 홀더에게 분배합니다. 또한 커뮤니티 내에서 다양한 이벤트와 정보 교류 등을 통하여 이자 수익 이외의 내재적인 가치와 문화를 형성하는 커뮤니티의 역동성에 기반합니다.
