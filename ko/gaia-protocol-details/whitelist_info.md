@@ -10,19 +10,16 @@
   * **1,000 Klay** 가치 당 화이트 리스트 **티켓 1장** 지급됩니다.
   * 1 장의 티켓 당 1개의 NFT 민팅이가능합니다.   1장의 티켓 당 1개의 NFT 민팅이 가능합니다.&#x20;
   * **1개의 지갑**당 총 **5장**까지(Max Cap) 티켓이 발행됩니다.
-* Token List
-  * DSC Mates (Klaytn)
-  * DSC eMates (Ethereum)
-  * 떡방앗간 NFT
-  *   ㅡㅑ (Klaytn)
 
-      ### Token List
 
-      * DSC Mates (Klaytn Chain)
-      * DSC eMates (Ethereum Chain)
-      * 떡방앗간 NFT (Klaytn Chain)
-      * Mix (Klaytn Chain)
-      * sKRNO/wsKRNO (Klaytn Chain)
+
+### **Token List**
+
+* DSC Mates (Klaytn Chain)
+* DSC eMates (Ethereum Chain)
+* 떡방앗간 NFT (Klaytn Chain)
+* Mix (Klaytn Chain)
+* sKRNO/wsKRNO (Klaytn Chain)
 
 ### 스냅샷: 2/9 (수) \[시간은 미공개]
 
