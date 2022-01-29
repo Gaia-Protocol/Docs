@@ -11,8 +11,6 @@
   * 1 장의 티켓 당 1개의 NFT 민팅이가능합니다.   1장의 티켓 당 1개의 NFT 민팅이 가능합니다.&#x20;
   * **1개의 지갑**당 총 **5장**까지(Max Cap) 티켓이 발행됩니다.
 
-
-
 ### **Token List**
 
 * DSC Mates (Klaytn Chain)
@@ -20,6 +18,12 @@
 * 떡방앗간 NFT (Klaytn Chain)
 * Mix (Klaytn Chain)
 * sKRNO/wsKRNO (Klaytn Chain)
+
+
+
+### \*\* 민팅은 카이카스와 클립 지갑을 지원합니다 \*\*
+
+
 
 ### 스냅샷: 2/9 (수) \[시간은 미공개]
 
