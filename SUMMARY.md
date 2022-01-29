@@ -22,3 +22,8 @@
 * [Telegram](https://t.me/gaiaprotocol)
 * [Twitter](https://twitter.com/gaia\_protocol)
 * [Kakaotalk](https://open.kakao.com/o/ggBYKEUd)
+
+## Internationalization
+
+* [한국어](https://app.gitbook.com/o/8FIBI9R5YJWSJLeAiCnM/s/JgYXrUIlgbB2JsWOo3Nk/)
+* [中文](https://app.gitbook.com/o/8FIBI9R5YJWSJLeAiCnM/s/5AFWLdhcC9bDq6ejw9Fe/)
