@@ -1,8 +1,10 @@
 # Whitelist Information
 
+![](../../.gitbook/assets/whitelist.jpg)
+
 ### 화이트리스트 신청: 1/24 (월) - 2/8 (화)
 
-* 설문링크 배포: https://wyoz4cv843u.typeform.com/to/pGgR9iHv
+* 설문링크 배포: **** [_**https://wyoz4cv843u.typeform.com/to/pGgR9iHv**_](https://wyoz4cv843u.typeform.com/to/pGgR9iHv)_****_
 * 토큰 별 보유 지갑 주소 기입합니다.
 * 기입된 지갑의 화이트 리스트 대상 NFT 및 코인의 가치 합산하여 확인
   * **1,000 Klay** 가치 당 화이트 리스트 **티켓 1장** 지급됩니다.
