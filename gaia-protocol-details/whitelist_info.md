@@ -18,6 +18,7 @@
 * DSC Mates (Klaytn Chain)
 * DSC eMates (Ethereum Chain)
 * 떡방앗간 NFT (Klaytn Chain)
+* IJM (Klaytn Chain)
 * Mix (Klaytn Chain)
 * sKRNO/wsKRNO (Klaytn Chain)
 
