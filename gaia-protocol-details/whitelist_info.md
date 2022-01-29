@@ -1,14 +1,16 @@
 # Whitelist Information
 
-![](../../.gitbook/assets/whitelist.jpg)
+![](../.gitbook/assets/whitelist.jpg)
 
 ### 화이트리스트 신청: 1/24 (월) - 2/8 (화) 23:00
 
-* 설문링크 배포: **** [_**https://wyoz4cv843u.typeform.com/to/pGgR9iHv**_](https://wyoz4cv843u.typeform.com/to/pGgR9iHv)_****_
-* 토큰 별 보유 지갑 주소 기입합니다.
+* 설문링크 배포:   [_**https://wyoz4cv843u.typeform.com/to/pGgR9iHv**_](https://wyoz4cv843u.typeform.com/to/pGgR9iHv)
+* 각 토큰들을 보유한 지갑 주소를 기입합니다.
+* 보유하지 않은 토큰에 대한 지갑주소 입력란은 비워두셔도 됩니다.
+* 최종 단계에서 민팅할 지갑주소란에는 **필히 민팅시 사용할 카이카스 or 클립 지갑 주소**를 기입해주세요.
 * 기입된 지갑의 화이트 리스트 대상 NFT 및 코인의 가치 합산하여 확인
   * **1,000 Klay** 가치 당 화이트 리스트 **티켓 1장** 지급됩니다.
-  * 1 장의 티켓 당 1개의 NFT 민팅이가능합니다.   1장의 티켓 당 1개의 NFT 민팅이 가능합니다.&#x20;
+  * 1 장의 티켓 당 1개의 NFT 민팅이가능합니다. 1장의 티켓 당 1개의 NFT 민팅이 가능합니다.
   * **1개의 지갑**당 총 **5장**까지(Max Cap) 티켓이 발행됩니다.
 
 ### **Token List**
@@ -19,11 +21,7 @@
 * Mix (Klaytn Chain)
 * sKRNO/wsKRNO (Klaytn Chain)
 
-
-
 ### \*\* 민팅은 카이카스와 클립 지갑을 지원합니다 \*\*
-
-
 
 ### 스냅샷: 2/9 (수) \[시간은 미공개]
 
