@@ -20,7 +20,7 @@
 * 떡방앗간 NFT (Klaytn Chain)
 * IJM (Klaytn Chain)
 * Mix (Klaytn Chain)
-* sKRNO/wsKRNO (Klaytn Chain)
+* sKRNO/wsKRNO - 담보중인 wsKRNO 포함 (Klaytn Chain)
 
 ### \*\* 민팅은 카이카스와 클립 지갑을 지원합니다 \*\*
 
