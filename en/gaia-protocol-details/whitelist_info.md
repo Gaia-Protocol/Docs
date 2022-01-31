@@ -3,30 +3,30 @@
 #### Whitelist Registration: 1/24 (Mon) - 2/8 (Tue) 23:00 UTC+ 9
 
 * Registration From Link: https://wyoz4cv843u.typeform.com/to/pGgR9iHv
-* 토큰 별 보유 지갑 주소 기입합니다.
-* 기입된 지갑의 화이트 리스트 대상 NFT 및 코인의 가치 합산하여 확인
-  * 1000 Klay 가치 당 화이트 리스트 티켓 1장 지급됩니다.
-  * 1 장의 티켓 당 1개의 nft 민팅이 가능합니다.
+* Input all wallet addresses that have Token and NFTs for whitelist
+* The team will compute all the asset values to validate for whitelisting
+  * Whitelist ticket will be provided per 1000 Klay worth of NFTs/Tokens for whitelisting.
+  * You can mint 1 NFT per ticket.
 
 #### Snapshot Schedule: 2/9 (Wed) UTC+ 9 [Time will be announced very soon]
 
-* 팀에서 스냅샷을 통한 자산확인을 진행하여 티켓을 지갑 별로 배분합니다.
-* 코드로 스냅샷을 찍기에 신청자 분들께서 신청할 때 기입한 지갑에 자산을 옮기지 말고 넣어두시기만하면 됩니다.
-* 민팅 당시 자산 재확인을 통해 자산 처분 여부 확인 (스냅샷 이후 판매 시 민팅 할 수 없습니다.)&#x20;
-* NFT 가치는 스냅샷 당시 자산들의 Floor Price로 측정하며, 토큰의 가치는 스냅샷 당시의 가격으로 측정합니다.
-* Pre-Sale(2/10 22시) 물량은 4,000개이나, 티켓은 4,000장을 초과하여 배부될 수 있습니다.
+* Gaia team will distribute whitelist tickets to each wallet after validating the asseut value through the snapshot.
+* Whitelist applicants don't need to do anything since the snapshot will be done by a program.
+* The team will doulbe check during the minting process to prevent applicants selling the asset after the snapshot. If you sold your NFTs/Tokens after the snapshot, you cannot participate the minting. &#x20;
+* NFTs and Tokens will be valued at the snapshot time. For NFTs, we will use floor price.
+* Pre-Sale(22:00 UTC + 9, 10th, Feb) amount is 4,000, but whitelist ticket can be distributed over 4,000.
 
-#### Pre-Sale: 2/10 (목) 22:00
+#### Pre-Sale: 10th, Feb (Thu) 22:00 UTC + 9
 
-* 4,000개 소진시 Pre-Sale은 종료됩니다.
+* Pre-Sale will be ended if Pre-Sale amount is sold out. (4,000 NFTs)
 * Price: **1,000 Klay**
 
-#### Public-Sale: 2/10 (목) 23:00
+#### Public-Sale: 10th, Feb (Thu) 23:00 UTC + 9
 
-* 6,000개 소진시 Public-Sale은 종료됩니다.&#x20;
+* Public-Sale will be ended if Public-Salem amount is sold out. (6,000 NFTs)
 * Price: **1,000 Klay**
 
-### 관련 프로젝트 링크
+### Related NFTs/Tokens Links 
 
 * [**Kronos DAO**](https://kronosdao.finance)
 * [**DogeSoundClub Mates**](https://opensea.io/collection/dogesoundclub-mates)
@@ -35,7 +35,7 @@
 * [**떡방앗간 참새 NFT**](https://klu.bs/pfp/0x29d05593116C443da54DaBFB4e5322DEA2fff8Cd)
 * [**IJM Token**](https://tteok.org)
 
-### 관련 프로젝트 Contract
+### Related NFTs/Tokens Contracts
 
 * **KRNO: 0xD676e57Ca65b827fEb112AD81Ff738E7B6c1048d**
 * **sKRNO: 0x6555F93f608980526B5cA79b3bE2d4EdadB5C562**
