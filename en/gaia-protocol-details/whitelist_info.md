@@ -2,28 +2,28 @@
 
 #### Whitelist Registration: 1/24 (Mon) - 2/8 (Tue) 23:00 UTC+ 9
 
-* Registration From Link: https://wyoz4cv843u.typeform.com/to/pGgR9iHv
+* Registration Form Link: https://wyoz4cv843u.typeform.com/to/pGgR9iHv
 * Input all wallet addresses that have Token and NFTs for whitelist
 * The team will compute all the asset values to validate for whitelisting
-  * Whitelist ticket will be provided per 1000 Klay worth of NFTs/Tokens for whitelisting.
+  * Whitelist tickets will be provided per 1000 Klay worth of NFTs/Tokens for whitelisting.
   * You can mint 1 NFT per ticket.
 
 #### Snapshot Schedule: 2/9 (Wed) UTC+ 9 [Time will be announced very soon]
 
-* Gaia team will distribute whitelist tickets to each wallet after validating the asseut value through the snapshot.
+* Gaia team will distribute whitelist tickets to each wallet after validating the asset value through the snapshot.
 * Whitelist applicants don't need to do anything since the snapshot will be done by a program.
-* The team will doulbe check during the minting process to prevent applicants selling the asset after the snapshot. If you sold your NFTs/Tokens after the snapshot, you cannot participate the minting. &#x20;
+* The team will double-check during the minting process to prevent applicants from selling the asset after the snapshot. If you sold your NFTs/Tokens after the snapshot, you cannot participate in the minting. &#x20;
 * NFTs and Tokens will be valued at the snapshot time. For NFTs, we will use floor price.
 * Pre-Sale(22:00 UTC + 9, 10th, Feb) amount is 4,000, but whitelist ticket can be distributed over 4,000.
 
 #### Pre-Sale: 10th, Feb (Thu) 22:00 UTC + 9
 
-* Pre-Sale will be ended if Pre-Sale amount is sold out. (4,000 NFTs)
+* Pre-Sale will be ended if the Pre-Sale amount is sold out. (4,000 NFTs)
 * Price: **1,000 Klay**
 
 #### Public-Sale: 10th, Feb (Thu) 23:00 UTC + 9
 
-* Public-Sale will be ended if Public-Salem amount is sold out. (6,000 NFTs)
+* Pre-Sale will be ended if the Public-Sale amount is sold out. (6,000 NFTs)
 * Price: **1,000 Klay**
 
 ### Related NFTs/Tokens Links 
