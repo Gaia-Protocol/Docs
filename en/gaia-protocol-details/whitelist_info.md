@@ -32,7 +32,7 @@
 * [**DogeSoundClub Mates**](https://opensea.io/collection/dogesoundclub-mates)
 * [**DogeSoundClub eMATES**](https://opensea.io/collection/dogesoundclub-emates)
 * [**MIX Token**](https://mix.info)
-* [**떡방앗간 참새 NFT**](https://klu.bs/pfp/0x29d05593116C443da54DaBFB4e5322DEA2fff8Cd)
+* [**Sparrow NFT**](https://klu.bs/pfp/0x29d05593116C443da54DaBFB4e5322DEA2fff8Cd)
 * [**IJM Token**](https://tteok.org)
 
 ### Related NFTs/Tokens Contracts
