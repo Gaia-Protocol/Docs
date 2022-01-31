@@ -10,7 +10,7 @@
 
 ## FAQ
 
-* [Q\&A](faq/projects.md)
+* [Q\&A](FAQ/projects.md)
 
 ## Partnership
 
