@@ -2,15 +2,15 @@
 
 ## Q: Would there be any benefits by holding Gaia Protocol NFT?
 
-**A: 디스코드 내부에 프로젝트 NFT를 보유한 홀더들만을 위한 채널들을 개설할 예정입니다. 해당 채널에서 다양하고 퀄리티있는 투자 정보들이 공유가 되고 이를 통해 더욱 강력한 커뮤니티가 형성될 것을 기대하고 있습니다. Gaia NFT 홀더들은 클레이튼 생태계 안에서 이와 같은 질 높은 커뮤니티 소속감을 가질 수 있고, 이는 NFT 의 가치가 상승하게 되는 선순환이 됩니다. 원금회수 시점에 계획 중인 ‘원금회수 오프라인 파티’를 포함하여 홀더들만이 참여할 수 있는 온/오프라인 모임들을 진행해 나갈 예정입니다.**
+**A: The team will create exclusvie Discord channle for NFT holders. We expect the channel actively exchange qualified investment information which incentivize holders to form strong community. Gaia NFT holders will form strong bond, which will make a virtuous cycle of increase in NFT value, within the community. Gaia team also planning 'breakeven point party' and various on/off-line events for the NFT holders.
 
-**Gaia Protocol 이 다른 NFT 프로젝트과 구별되는 가장 큰 혜택은 최초 민팅가(원금) 1,000 Klay 를 최대한 보장받는다는 점입니다. 향후 V2에 대한 화이트리스트 대상이 되며, 현재 NFT 가 가진 유틸리티를 제외한 다른 혜택은 계획에 없습니다.**
+**The main difference with other NFT projects is that holders can secure their investment principal (1,000 Klay) as much as possible from the project. Moreover, we will provide a whitelist ticket for the V2 project. There would be no other benefits for the holders until now.**
 
-## Q: Kronos의 수익률에 따라 프로젝트의 성공이 결정되는 것인가요?
+## Q: Does Kronos DAO APY decide the success of Gaia Protocol?
 
-#### A: Gaia Protocol은 민팅한 금액의 50%에 대한 자금을 Kronos DAO에 위탁하게 됩니다. 단도직입적으로 말하면 Kronos DAO의 APY 변화가와 KRNO 토큰의 가격이 원금회수 기간에 영향을 미치게 됩니다. 하지만 Kronos DAO 의 서비스가 종료되지 않는 한 NFT 홀더는 영구적으로 복리예치 이자를 보상으로 받게 됩니다. 한편으로는 원금을 100% 회수가 되지 않거나 원금회수 기간이 증가된다 하더라도 프로젝트가 실패하였다고 단언하기는 어려울 것입니다. Gaia Protocol의 성공여부는 NFT 홀더들이 커뮤니티의 구성원으로서 자부심을 느끼고 커뮤니티를 성장시켜 나가는 것에 달려있습니다.
+#### A: Gaia Protocol consigns 50% of total minted Klay to Kronos DAO. APY of Kronos DAO does impact on total period of reaching breakeven point. However, unless Kronos DAO terminate the projects, Gaia NFT holders will receive compounding interest permanenlty. On the other hand, it is hard to say the project is failed since the principal did not collect fully or the total period of breakeven point has increased significantly. The team's standard of sucess is focused on growth of the community.
 
-## Q: Buyback Fund가 아직 이해가 잘 안 돼요. Buyback 펀드에 판매하는 것과 Open Sea에서 구매하는 것은 다른가요?
+## Q: I cannot understand Buyback FUnd. What is the difference between selling through Buyback Fund and Open Sea?
 
 #### A: Buyback Fund 와 Open Sea 에서의 매매는 별개입니다. 우선 Buyback Fund에 대한 정의는 앞서 말씀드린 Gaia Protocol 섹션을 참고하시면 됩니다. Buyback 은 Gaia Protocol 공식 웹사이트에서 NFT 홀더가 신청할 수 있으며 언제든지 Buyback 신청이 가능합니다. 단, 시간의 경과가 그에따라 예치된 복리 이자만큼 Buyback 으로 지원되는 Klay 는 줄어듭니다. 단, 모든 NFT 공통적으로 적용되는 원금 회수금액이 1,000 Klay 에 도달할 때까지 가능합니다.
 
