@@ -6,7 +6,7 @@ description: Gaia Protocol Introduction in English
 
 ## What is Gaia Protocol?
 
-Gaia Protocol is an investment-purposed Kalytn network PFP NFT project by combining Defi 2.0 and NFT concepts. The project deposits 50% of all minted Klay permanently on Kronos DAO, the first Defi 2.0 initiative on Klaytn network. The compound interest generated from the deposit will be distributed to the NFT holders. We have a prospective mission to create a proactive community with enthusiasts in both DeFi 2.0 and NFT investment, with information exchange as well as various internal events exclusively for our community members.
+Gaia Protocol is an investment-purposed Klaytn network PFP NFT project by combining Defi 2.0 and NFT concepts. The project deposits 50% of all minted Klay permanently on Kronos DAO, the first Defi 2.0 initiative on Klaytn network. The compound interest generated from the deposit will be distributed to the NFT holders. We have a prospective mission to create a proactive community with enthusiasts in both DeFi 2.0 and NFT investment, with information exchange as well as various internal events exclusively for our community members.
 
 ## What is the goal of Gaia Protocol?
 
