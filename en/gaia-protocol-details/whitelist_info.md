@@ -25,7 +25,7 @@
 
 * Public-Sale will be ended if the Public-Sale amount is sold out. (6,000 NFTs)
 * Price: **1,000 Klay**
-
+* Unminted NFTs will be burned after the Public-Sale
 ### Related NFTs/Tokens Links 
 
 * [**Kronos DAO**](https://kronosdao.finance)
