@@ -23,7 +23,7 @@
 
 #### Public-Sale: 10th, Feb (Thu) 23:00 UTC + 9
 
-* Pre-Sale will be ended if the Public-Sale amount is sold out. (6,000 NFTs)
+* Public-Sale will be ended if the Public-Sale amount is sold out. (6,000 NFTs)
 * Price: **1,000 Klay**
 
 ### Related NFTs/Tokens Links 
