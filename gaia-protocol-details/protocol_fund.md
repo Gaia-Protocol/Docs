@@ -19,7 +19,7 @@
 
 민팅을 통해 모인 자금은 이후 **Kronos** **예치** **펀드** **(50%),** **Buyback** **펀드** **(45%),** **개발자 펀드 (5%)** 로 이루어져 있습니다.
 
-![](../.gitbook/assets/distribution.jpeg)
+![](<../.gitbook/assets/Fund Distribution.jpeg>)
 
 ### Kronos 예치 펀드 (50%)
 
