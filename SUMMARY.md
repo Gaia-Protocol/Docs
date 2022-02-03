@@ -4,7 +4,7 @@
 
 ## Gaia Protocol Details
 
-* [Gaia Protocol 资金结构及日程](protocol\_fund.md)
+* [Gaia Protocol 资金结构及日程](protocol_details/protocol_fund.md)
 * [白名单资讯](protocol_details/whitelist_info.md)
 * [Team](protocol_details/team_info.md)
 
