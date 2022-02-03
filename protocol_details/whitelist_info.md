@@ -25,7 +25,7 @@
 * 价格: 1,000 Klay
 * 没有被铸币的NFT将会在公开发售后被销毁。
 
-###相关NFT/Token链接
+### 相关NFT/Token链接
 
 * DSC Mates (Klaytn Chain)
 * DSC eMates (Ethereum Chain)
