@@ -4,7 +4,7 @@
 
 ## Gaia Protocol Details
 
-* [Gaia Protocol Fund Distribuition and Key Event Dates](en/gaia-protocol-details/protocol\_fund.md)
+* [Fund Distribuition and Key Event Dates](en/gaia-protocol-details/protocol\_fund.md)
 * [Whitelist Information](en/gaia-protocol-details/whitelist\_info.md)
 * [Team](en/gaia-protocol-details/team.md)
 
