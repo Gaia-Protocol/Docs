@@ -18,7 +18,7 @@ SushiSwap의 Contributor (스마트계약 내부 오디터)로서 Shoyu 및 Miri
 
 ****[**Twitter**](https://twitter.com/TheGreatHB\_)&#x20;
 
-## Marketing & CS 박민
+## Marketing & CS 박민(Medo)
 
 그는 DSC 커뮤니티에서 활동하고 있으며, 떡방앗간 커뮤니티 매니저를 담당하고 있습니다. 트위터 뿐 아니라 여러 커뮤니티에서 활동적인 모습으로 커뮤니티의 원동력이 되고 있습니다. 가이아의 기획단계에서 함께 했으며 커뮤니티 에디터를 맡게 되었습니다.
 
